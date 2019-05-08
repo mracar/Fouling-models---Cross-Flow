@@ -2,7 +2,5 @@
 
 
 The Jupiter Notebook takes in .csv files with two columns (Time and Flow) 
-
-and returns the estimated parameters of the models and an Excel Spreadsheet 
-with 
+and returns the estimated parameters of the models and an Excel Spreadsheet with 
 the corresponding data predicted by the implemented models. 
